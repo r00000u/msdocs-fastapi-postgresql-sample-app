@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Tenant-A-AP'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7161DAB19D074E359B4F78C9B5AE1A76 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4CE012E3F40F4063BBE51434A22A5816 }}
